@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\obj\Debug\net6.0\K205-Telebe.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\obj\Debug\net6.0\K205-Telebe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\obj\Debug\net6.0\K205-Telebe.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\obj\Debug\net6.0\K205-Telebe.AssemblyInfo.cs
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\obj\Debug\net6.0\K205-Telebe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\bin\Debug\net6.0\K205-Telebe.exe
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\bin\Debug\net6.0\K205-Telebe.deps.json
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\bin\Debug\net6.0\K205-Telebe.runtimeconfig.json
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\bin\Debug\net6.0\K205-Telebe.dll
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\bin\Debug\net6.0\ref\K205-Telebe.dll
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\bin\Debug\net6.0\K205-Telebe.pdb
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\obj\Debug\net6.0\K205-Telebe.dll
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\obj\Debug\net6.0\ref\K205-Telebe.dll
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\obj\Debug\net6.0\K205-Telebe.pdb
+C:\Users\User\source\repos\K205-Telebe\K205-Telebe\obj\Debug\net6.0\K205-Telebe.genruntimeconfig.cache
